@@ -1,0 +1,2 @@
+File Handling in PHP | Write Mode.
+Lets do it.

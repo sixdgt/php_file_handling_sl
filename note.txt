@@ -1,0 +1,18 @@
+Basic File Handling in PHP.
+
+There are 3 modes.
+1. Read 'r'
+2. Write 'w'
+3. Append 'a'
+
+Methods
+1. fopen() - to open file from specified location. will raise exception if the file is not found
+
+2. fread() - to read content of the file. will raise exception if the file is not available in the specified location
+
+3. fwrite() - to write new content or add content after existing content in file. will create new file if the file doesn't exist
+
+4. filesize() - to check the size of file 
+5. fclose() - to close lastly open file 
+
+Note: Here we read and write content of text file
